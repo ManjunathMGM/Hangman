@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hangman Game in Python
+# 🎮 Hangman Game in Python
 
 Guess the hidden word and test your linguistic prowess with this classic Hangman game!
 
